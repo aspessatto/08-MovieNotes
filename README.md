@@ -1,4 +1,4 @@
-# RocketNotes
+# MovieNotes
 
 Projeto de API para filmes realizado no nível 8 do Explorer da RocketSeat
 
